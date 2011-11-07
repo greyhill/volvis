@@ -3,3 +3,5 @@ A Python Volume Visualizer
 
 Check out test.py for a simple use case.
 
+You'll need the packages numpy and pyglet.
+

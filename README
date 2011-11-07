@@ -5,3 +5,12 @@ Check out test.py for a simple use case.
 
 You'll need the packages numpy and pyglet.
 
+Controls
+========
+
+Click and drag the mouse to rotate
+
++/- to zoom in and out
+
+[/] to adjust opacity
+
